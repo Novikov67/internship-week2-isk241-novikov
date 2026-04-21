@@ -1,0 +1,19 @@
+# Системные файлы Windows
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Временные файлы Office
+~$*.docx
+~$*.xlsx
+*.tmp
+
+# Среда разработки PyCharm
+.idea/
+*.iml
+
+# Среда разработки Visual Studio
+bin/
+obj/
+*.suo
+*.user
